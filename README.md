@@ -4,7 +4,6 @@ Los archivos los pasarán al programa de Netbeans en su proyecto. Creen una nuev
 ## IMPORTANTE
 > Los archivos tienen su lugar, por favor usa bien el orden.
 
-- Headers: SenXRaiz.h
-- Clase: SenXRaiz.cpp
-
-- Main: SenoDeX.cpp
+- Headers: [SenXRaiz.h](https://raw.githubusercontent.com/Al3sKa/SenoDeX/main/SenXRaiz.h)
+- Clase: [SenXRaiz.cpp](https://raw.githubusercontent.com/Al3sKa/SenoDeX/main/SenXRaiz.cpp)
+- Main: [SenoDeX.cpp](https://raw.githubusercontent.com/Al3sKa/SenoDeX/main/SenoDeX.cpp)
